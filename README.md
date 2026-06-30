@@ -1,4 +1,4 @@
-# The Overengineered Pi Protector 🛡️🍓
+# The Overengineered Pi Protector
 
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=oqFYcszcCDM)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
@@ -35,7 +35,7 @@ This board sits between your power supply and your Pi. Under normal conditions, 
 
 ---
 
-### 🧠 How the Crowbar Works (& The Over-Engineering Decisions)
+### 🧠 How the Circuit Works (& The Over-Engineering Decisions)
 
 A "crowbar" circuit gets its name because it acts exactly like dropping a literal metal crowbar across your power rails. 
 
